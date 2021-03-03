@@ -1,3 +1,4 @@
 flask
 zeep
 -e git+https://github.com/superfell/Beatbox@master#egg=beatbox
+-e git+https://github.com/fromzeroedu/flask_uploads#egg=flask_uploads
